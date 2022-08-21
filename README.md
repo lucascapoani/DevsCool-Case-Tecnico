@@ -23,9 +23,9 @@
 
 <h2> 📁 Instruções </h2>
 
-<p> Para executar o programa, basta ter instalado em sua máquina a versão mais recente do Python e executar o arquivo, ou ter alguma IDE de sua preferência instalada (como por exemplo Visual Studio Code ou Pycharm) e abrir o código dentro da IDE e executar o programa.</p>
+<p>- Para executar o programa, basta ter instalado em sua máquina a versão mais recente do Python e executar o arquivo "Case_E-core_Lucas_Capoani.py", ou ter alguma IDE de sua preferência instalada (como por exemplo Visual Studio Code ou Pycharm) e abrir o código dentro da IDE e executar o programa.</p>
 
-<p> Após abrir o programa, para testar as funcionalidades, basta verificar o número da funcionalidade no Menu Principal, digitar o número desejado e teclar ENTER para confirmar a solicitação.</p>
+<p>- Após abrir o programa, para testar as funcionalidades, basta verificar o número da funcionalidade no Menu Principal, digitar o número desejado e teclar ENTER para confirmar a solicitação.</p>
 
 <hr>
 
