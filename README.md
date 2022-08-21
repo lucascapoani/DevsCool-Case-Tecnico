@@ -29,6 +29,25 @@
 
 <hr>
 
+<h2> 🌐 Funcionalidades </h2>
+
+<h4>Cadastro de dados de pessoas: </h4>
+<p>- Após selecionar a opção [1] do programa, aparecerá um campo para registrar o nome e outro campo para registrar idade da pessoa. Depois de efetuar o cadastro, o programa guarda as informações e mostra novamente uma tela de cadastro em branco, dando ao usuário a opção de seguir cadastrando novas pessoas, ou sair. Para voltar para o menu principal, basta digitar SAIR e teclar ENTER.</p>
+
+<h4>Mostrar todos usuários cadastrados: </h4>
+<p>- Basta selecionar a opção [2] do menu principal, para que o programa imprima uma lista com todos usuários cadastrados.</p>
+
+<h4>Mostrar usuários cadastrados (ordenado por idade): </h4>
+<p>- Selecionando a opção [3] do menu principal, o programa mostra uma lista ordenada por idade, dos usuários cadastrados.</p>
+
+<h4>Mostrar usuários cadastrados (em ordem alfabética): </h4>
+<p>- Na opção [4] do menu principal, o usuário pode selecionar e obter uma lista das pessoas cadastradas em ordem alfabética.</p>
+
+<h4>Categorizar por idade: </h4>
+<p>- Na opção [5], o programa exibe um novo menu com outras 5 opções, nas quais o usuário pode filtrar a lista das pessoas cadastradas por faixa etária: criança, adolescente, adulto e idoso. Selecionando [1], o programa exibirá uma lista apenas com as crianças registradas no programa (de 0 a 12 anos). Selecionando [2], o programa exibirá uma lista com apenas os adolescentes registrados (de 12 a 19 anos). Selecionando a opção [3], o programa irá mostrar uma lista apenas com os adultos registrados (de 20 a 65 anos). Selecionando a opção [4], o programa irá mostrar uma lista apenas com os idosos registrados (mais de 65 anos). Escolhendo a opção [6], o programa retorna para o Menu Principal.
+
+<hr>
+
 <h2> :camera: Demonstração </h2>
 
 ![image](https://user-images.githubusercontent.com/97242525/185811348-18ec990d-194e-42b9-8989-3b3665c6764c.png)
